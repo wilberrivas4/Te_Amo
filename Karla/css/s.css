@@ -1,6 +1,6 @@
 body{
     background: url(../img/wal.png);
-    background-size: cover;
+    background-size: 100%;
     background-repeat: no-repeat;
 }
 body{
@@ -8,6 +8,6 @@ body{
     margin-right: 2px
 }
 .abajo{
-    padding-top: 625px;
+    padding-top: 520px;
         
 }
