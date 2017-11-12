@@ -1,0 +1,12 @@
+/** ESPACIO ENTRE CONTENIDO Y MARGEN**/
+body{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 8px;
+    margin-top: 8px
+}
+body{
+    background: url(../img/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

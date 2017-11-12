@@ -1,0 +1,13 @@
+body{
+    background: url(../img/wal.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    margin-left: 2px;
+    margin-right: 2px
+}
+.abajo{
+    padding-top: 1000px;
+        
+}

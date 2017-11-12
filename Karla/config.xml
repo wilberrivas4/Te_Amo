@@ -1,0 +1,15 @@
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10"
+        version     = "1.0.0">
+        <name>Te Amo</name>
+        <description>
+            Feliz 3 Meses Mi Amor
+        </description>
+        <author email="wilberrivas@hotmail.es" href="">
+            Wilber Rivas
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+    </widget>
